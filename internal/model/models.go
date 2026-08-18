@@ -54,5 +54,5 @@ type Session struct {
 
 type ExportFile struct {
 	Name string `json:"name"`
-	Age  int    `json:"years"`
+	Age  int    `json:"age"`
 }
